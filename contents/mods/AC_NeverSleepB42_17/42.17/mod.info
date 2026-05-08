@@ -1,0 +1,4 @@
+name=AC Never Sleep [B42.17]
+id=ACNeverSleepB42
+description=Forces the player's fatigue to 0 every 10 in-game minute so you never feel sleepy. Optional sleep is still possible.
+poster=poster.png
