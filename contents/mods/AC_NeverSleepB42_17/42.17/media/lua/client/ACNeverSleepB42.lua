@@ -1,4 +1,5 @@
 -- Tested on B42.17
+-- Verified for B42.18
 
 local function ResetFatigue()
     local player = getPlayer()
